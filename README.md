@@ -1,2 +1,2 @@
 ## Minimum Requirements
-Java 8 or above
+Java 10 or above
